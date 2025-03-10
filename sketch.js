@@ -92,7 +92,7 @@ function loadIframe() {
       url = 'https://www.et.tku.edu.tw';
       break;
     case '第三周':
-      url = 'https://hackmd.io/y2zXAPZLTrWP78d-YCyecg';
+      url = 'https://satomahiro.github.io/20250310/';
       break;
   }
   iframe.attribute('src', url);
